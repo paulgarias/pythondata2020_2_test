@@ -1,4 +1,4 @@
-Sub forLoop()
+Sub forLoopExample()
 
     ' Create a variable to hold the counter
     Dim i As Integer
